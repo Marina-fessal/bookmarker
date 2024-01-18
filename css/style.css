@@ -1,0 +1,22 @@
+body{
+  background-image:url(../img/HD-wallpaper-bokeh-bookmark-heart-romantic.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.test{
+    width:20px ;
+    height: auto;
+}
+.form-sheet{
+    background-color:rgb(247, 240, 240) ;
+}
+
+h2{
+    font-size: 25px;
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
